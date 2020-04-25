@@ -1,0 +1,32 @@
+//----------helpers
+@import "../sass/helpers/functions.scss";
+@import "../sass/helpers/mixins.scss";
+@import "../sass/helpers/varaibles.scss";
+
+
+//----------Bases
+@import "../sass/bases/base.scss";
+@import "../sass/bases/buttoms.scss";
+@import "../sass/bases/global.scss";
+@import "../sass/bases/links.scss";
+
+//----------Layout
+@import "../sass/layout/header.scss";
+@import "../sass/layout/navigation.scss";
+@import "../sass/layout/main.scss";
+@import "../sass/layout/footer.scss";
+
+
+//----------Pages
+@import "../sass/pages/about.scss";
+@import "../sass/pages/contact.scss";
+@import "../sass/pages/home.scss";
+
+//----------Tools
+@import "../sass/tools/animation.scss";
+@import "../sass/tools/bourban.scss";
+
+
+
+
+
